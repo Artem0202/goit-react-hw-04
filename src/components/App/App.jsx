@@ -21,7 +21,6 @@ export default function App() {
   function openModal(fullImg) {
     setIsOpen(true);
     setModalImg(fullImg);
-    console.log(modalImg);
   }
 
   function closeModal() {
