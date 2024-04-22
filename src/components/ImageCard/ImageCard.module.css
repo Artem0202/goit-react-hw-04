@@ -2,9 +2,5 @@
   width: 420px;
   height: 260px;
   object-fit: cover;
-}
-.button {
-  padding: 0;
-  border: none;
   cursor: pointer;
 }
